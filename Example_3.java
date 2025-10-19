@@ -3,7 +3,7 @@ public class Test {
     public static void main(String[] args) {
 
 
-        Integer[] A = {14, 20, 2, 15, 10, 21};
+        Integer[] A = {47, 23, 36, 10, 85, 21};
 
         MinHeapInterface<Integer> minHeap = new MinHeap<>();
         for (int i = 0; i < A.length; i++) {
